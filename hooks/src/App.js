@@ -19,7 +19,7 @@ function App() {
     <Navbaar />
     <Filter />
     <AddMovie  addHandler={addHandler}  />
-    <MovieList movieList={movieList}/>
+    <MovieList movieList={movieList} />
 
     </div>
   );
